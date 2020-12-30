@@ -59,6 +59,8 @@ After your confirmation it will receive the access token.
 
 ---
 
+<img width="1440" alt="spotify authentication" src="https://user-images.githubusercontent.com/1307291/103358666-76a59b00-4ab6-11eb-9a18-156776ef8005.png">
+
 <img width="1440" alt="airtable" src="https://user-images.githubusercontent.com/1307291/103284757-67521f00-49dc-11eb-8d21-dcdbb0012470.png">
 
-<img width="1440" alt="spotify" src="https://user-images.githubusercontent.com/1307291/103284976-168ef600-49dd-11eb-9b1f-85879f07dcc2.png">
+<img width="1440" alt="spotify playlist" src="https://user-images.githubusercontent.com/1307291/103284976-168ef600-49dd-11eb-9b1f-85879f07dcc2.png">
